@@ -1,4 +1,5 @@
 Salary Prediction for Data Science, AI, and ML Jobs
+
 📌 Overview
 
 This project focuses on predicting salaries for jobs in Data Science, Artificial Intelligence (AI), and Machine Learning (ML). It aims to address the challenge of unclear and inconsistent salary structures across different roles, experience levels, and company sizes.
